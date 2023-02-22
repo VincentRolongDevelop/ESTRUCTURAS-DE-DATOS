@@ -1,0 +1,16 @@
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Cola\obj\Debug\net5.0\Cola.csproj.AssemblyReference.cache
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Cola\obj\Debug\net5.0\Cola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Cola\obj\Debug\net5.0\Cola.AssemblyInfoInputs.cache
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Cola\obj\Debug\net5.0\Cola.AssemblyInfo.cs
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Cola\obj\Debug\net5.0\Cola.csproj.CoreCompileInputs.cache
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Cola\bin\Debug\net5.0\Cola.exe
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Cola\bin\Debug\net5.0\Cola.deps.json
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Cola\bin\Debug\net5.0\Cola.runtimeconfig.json
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Cola\bin\Debug\net5.0\Cola.runtimeconfig.dev.json
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Cola\bin\Debug\net5.0\Cola.dll
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Cola\bin\Debug\net5.0\ref\Cola.dll
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Cola\bin\Debug\net5.0\Cola.pdb
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Cola\obj\Debug\net5.0\Cola.dll
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Cola\obj\Debug\net5.0\ref\Cola.dll
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Cola\obj\Debug\net5.0\Cola.pdb
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Cola\obj\Debug\net5.0\Cola.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+D:\UdC\2021-1\ESTRUCTURA DE DATOS\EXAMEN FINAL\C#\Lista\bin\Debug\net5.0\Lista.exe
+D:\UdC\2021-1\ESTRUCTURA DE DATOS\EXAMEN FINAL\C#\Lista\bin\Debug\net5.0\Lista.deps.json
+D:\UdC\2021-1\ESTRUCTURA DE DATOS\EXAMEN FINAL\C#\Lista\bin\Debug\net5.0\Lista.runtimeconfig.json
+D:\UdC\2021-1\ESTRUCTURA DE DATOS\EXAMEN FINAL\C#\Lista\bin\Debug\net5.0\Lista.runtimeconfig.dev.json
+D:\UdC\2021-1\ESTRUCTURA DE DATOS\EXAMEN FINAL\C#\Lista\bin\Debug\net5.0\Lista.dll
+D:\UdC\2021-1\ESTRUCTURA DE DATOS\EXAMEN FINAL\C#\Lista\bin\Debug\net5.0\ref\Lista.dll
+D:\UdC\2021-1\ESTRUCTURA DE DATOS\EXAMEN FINAL\C#\Lista\bin\Debug\net5.0\Lista.pdb
+D:\UdC\2021-1\ESTRUCTURA DE DATOS\EXAMEN FINAL\C#\Lista\obj\Debug\net5.0\Lista.csproj.AssemblyReference.cache
+D:\UdC\2021-1\ESTRUCTURA DE DATOS\EXAMEN FINAL\C#\Lista\obj\Debug\net5.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdC\2021-1\ESTRUCTURA DE DATOS\EXAMEN FINAL\C#\Lista\obj\Debug\net5.0\Lista.AssemblyInfoInputs.cache
+D:\UdC\2021-1\ESTRUCTURA DE DATOS\EXAMEN FINAL\C#\Lista\obj\Debug\net5.0\Lista.AssemblyInfo.cs
+D:\UdC\2021-1\ESTRUCTURA DE DATOS\EXAMEN FINAL\C#\Lista\obj\Debug\net5.0\Lista.csproj.CoreCompileInputs.cache
+D:\UdC\2021-1\ESTRUCTURA DE DATOS\EXAMEN FINAL\C#\Lista\obj\Debug\net5.0\Lista.dll
+D:\UdC\2021-1\ESTRUCTURA DE DATOS\EXAMEN FINAL\C#\Lista\obj\Debug\net5.0\ref\Lista.dll
+D:\UdC\2021-1\ESTRUCTURA DE DATOS\EXAMEN FINAL\C#\Lista\obj\Debug\net5.0\Lista.pdb
+D:\UdC\2021-1\ESTRUCTURA DE DATOS\EXAMEN FINAL\C#\Lista\obj\Debug\net5.0\Lista.genruntimeconfig.cache
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Lista\bin\Debug\net5.0\Lista.exe
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Lista\bin\Debug\net5.0\Lista.deps.json
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Lista\bin\Debug\net5.0\Lista.runtimeconfig.json
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Lista\bin\Debug\net5.0\Lista.runtimeconfig.dev.json
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Lista\bin\Debug\net5.0\Lista.dll
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Lista\bin\Debug\net5.0\ref\Lista.dll
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Lista\bin\Debug\net5.0\Lista.pdb
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Lista\obj\Debug\net5.0\Lista.csproj.AssemblyReference.cache
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Lista\obj\Debug\net5.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Lista\obj\Debug\net5.0\Lista.AssemblyInfoInputs.cache
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Lista\obj\Debug\net5.0\Lista.AssemblyInfo.cs
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Lista\obj\Debug\net5.0\Lista.csproj.CoreCompileInputs.cache
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Lista\obj\Debug\net5.0\Lista.dll
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Lista\obj\Debug\net5.0\ref\Lista.dll
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Lista\obj\Debug\net5.0\Lista.pdb
+C:\Users\IdeaPad\Desktop\EXAMEN-FINAL VINCENT\C#\Lista\obj\Debug\net5.0\Lista.genruntimeconfig.cache
